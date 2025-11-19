@@ -1,0 +1,18 @@
+Output of "aws sts get-caller-identity" ==>>
+{
+    "UserId": "AIDATFNEM5AQFC7BSU557",
+    "Account": "217777498144",
+    "Arn": "arn:aws:iam::217777498144:user/terraform-intern"
+}
+
+
+terraform --version
+Terraform v1.13.5
+on linux_amd64
+
+podman --version
+podman version 5.6.2
+
+My local environment is operational
+
+
